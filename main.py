@@ -37,6 +37,11 @@ CANDIDATES = [
     ("Nightowl",     3, 3, 3, 5),
     ("Unstoppable",  1, 4, 2, 5),
     ("Gaskan",       4, 5, 4, 2),
+    # Second pass: two more contenders, both grand titles. "Ringmaster"
+    # is funny but reads as a show, not a boss; "Sovereign" is true and
+    # vivid but too formal to land as a joke. Neither beats "Overlord".
+    ("Ringmaster",   4, 4, 4, 4),
+    ("Sovereign",    3, 5, 4, 4),
 ]
 
 # Weights follow the brief's order: funny first, then fit, then vivid,
